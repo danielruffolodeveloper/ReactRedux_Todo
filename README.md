@@ -9,6 +9,14 @@ This enables the ability to filter items by their completed state.
 * Run `npm start` and open the project on localhost:3000
 * Create some TODO items!
 
+<div>
+  <p align="center">
+    <a href="https://madly-street.surge.sh" target="_blank">
+    🌟 Live app here 🌟
+    </a>
+  </p>
+</div>
+
 ## Screenshot
  <p float="center">
   <img src="screen1.png" width="408" />
